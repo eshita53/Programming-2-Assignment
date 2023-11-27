@@ -1,5 +1,5 @@
 # Programming-2-Assignment-1
-This repo represents the solution to my  1st assignment of programming.
+This repo represents the solution to my  1st assignment of programming-2 course.
 
 # Installation 
 It requires a Python environment
